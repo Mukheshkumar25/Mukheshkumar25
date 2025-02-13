@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mukheshkumar Reddy Singamareddy</h1>
 <h3 align="center">Student at SRM Univeristy AP</h3>
 
-- 🔭 I’m currently working on **FrontEnd Development**
+- 🔭 I’m currently working on **FrontEnd Development Projects**
 
-- 🌱 I’m currently learning **Operating Systems,Computer Networks,Computer Organization & Architecture,Machine Learning**
+- 🌱 I’m currently learning **Javascript and frameworks like React,Node etc.**
 
-- 👯 I’m looking to collaborate on **FullStack Development**
+- 👯 I’m looking to collaborate on **FullStack Development and Machine Learning Projects**
 
 - 🤝 I’m looking for help with **Software Development Projects**
 
