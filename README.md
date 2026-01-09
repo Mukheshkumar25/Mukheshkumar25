@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mukheshkumar Reddy Singamareddy</h1>
-<h3 align="center">Student at SRM University AP | Aspiring ML & NLP Developer</h3>
+<h3 align="center">Student at SRM University AP | Aspiring AI & ML Developer</h3>
 
 - 🔭 I’m currently working on **NLP-based PDF Question Answering Systems** and other ML projects.
 - 🌱 I’m currently learning **Machine Learning, Natural Language Processing, and Advanced Python frameworks**.
