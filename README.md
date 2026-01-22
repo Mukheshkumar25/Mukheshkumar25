@@ -22,8 +22,7 @@
 <div align="center"> 
 <h2 align="center">LeetCode Info</h2> 
 <br/>
-<img src="https://leetcode-stats-six.vercel.app/api?username=MukheshkumarReddy" alt="LeetCode Stats" />
-
+<img src="https://leetcard.jacoblin.cool/MukheshkumarReddy?theme=light&v=1" alt="LeetCode Stats" />
 <p align="center">
   <a href="https://leetcode.com/mukheshkumarreddy/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/lg200.png" alt="LeetCode 200" height="200" width="200" /></a>
   <a href="https://leetcode.com/mukheshkumarreddy/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/lg25100.png" alt="LeetCode 100" height="200" width="200" /></a>
