@@ -21,9 +21,8 @@
 
 <div align="center"> 
 <h2 align="center">LeetCode Info</h2> 
-  <br/>
+ <br/>
 [![Leetcode Stats](https://leetcard.jacoblin.cool/MukheshkumarReddy)](https://leetcode.com/MukheshkumarReddy)
-
 <p align="center">
   <a href="https://leetcode.com/mukheshkumarreddy/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/lg200.png" alt="LeetCode 200" height="200" width="200" /></a>
   <a href="https://leetcode.com/mukheshkumarreddy/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/lg25100.png" alt="LeetCode 100" height="200" width="200" /></a>
