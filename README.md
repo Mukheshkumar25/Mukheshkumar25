@@ -19,17 +19,34 @@
 <a href="https://auth.geeksforgeeks.org/user/mukheshkudfie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="geeksforgeeks" height="30" width="40" /></a>
 </p>
 
-<div align="center"> 
-<h2 align="center">LeetCode Info</h2> 
-<br/>
-<img src="https://leetcard.jacoblin.cool/MukheshkumarReddy?theme=light&v=1" alt="LeetCode Stats" />
-<p align="center">
-  <a href="https://leetcode.com/mukheshkumarreddy/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/lg200.png" alt="LeetCode 200" height="200" width="200" /></a>
-  <a href="https://leetcode.com/mukheshkumarreddy/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/lg25100.png" alt="LeetCode 100" height="200" width="200" /></a>
-  <a href="https://leetcode.com/mukheshkumarreddy/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/lg2550.png" alt="LeetCode 50" height="200" width="200" /></a>
-  <a href="https://leetcode.com/mukheshkumarreddy/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50-lg.png" alt="LeetCode 50" height="200" width="200" /></a>
-</p>
-</div>
+<h2 align="center">LeetCode Info</h2>
+
+<table align="center">
+  <tr>
+    <!-- LEFT: LeetCode Stats -->
+    <td align="center">
+      <img src="https://leetcard.jacoblin.cool/MukheshkumarReddy?theme=light&ext=contest" alt="LeetCode Stats" />
+    </td>
+
+    <!-- RIGHT: Badges -->
+    <td align="center">
+      <a href="https://leetcode.com/mukheshkumarreddy/" target="_blank">
+        <img src="https://assets.leetcode.com/static_assets/others/lg200.png" height="120" />
+      </a>
+      <a href="https://leetcode.com/mukheshkumarreddy/" target="_blank">
+        <img src="https://assets.leetcode.com/static_assets/others/lg25100.png" height="120" />
+      </a>
+      <br/>
+      <a href="https://leetcode.com/mukheshkumarreddy/" target="_blank">
+        <img src="https://assets.leetcode.com/static_assets/others/lg2550.png" height="120" />
+      </a>
+      <a href="https://leetcode.com/mukheshkumarreddy/" target="_blank">
+        <img src="https://assets.leetcode.com/static_assets/marketing/2024-50-lg.png" height="120" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 
 
