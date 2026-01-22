@@ -19,11 +19,13 @@
 <a href="https://auth.geeksforgeeks.org/user/mukheshkudfie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="geeksforgeeks" height="30" width="40" /></a>
 </p>
 
+
+
+
 <div align="center"> 
 <h2 align="center">LeetCode Info</h2> 
 <br/>
 <img src="https://leetcard.jacoblin.cool/MukheshkumarReddy?theme=light&v=1" alt="LeetCode Stats" />
-
 <p align="center">
   <a href="https://leetcode.com/mukheshkumarreddy/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/lg200.png" alt="LeetCode 200" height="200" width="200" /></a>
   <a href="https://leetcode.com/mukheshkumarreddy/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/lg25100.png" alt="LeetCode 100" height="200" width="200" /></a>
@@ -31,7 +33,6 @@
   <a href="https://leetcode.com/mukheshkumarreddy/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50-lg.png" alt="LeetCode 50" height="200" width="200" /></a>
 </p>
 </div>
-
 
 
 
@@ -51,7 +52,6 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
-//<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 //<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
 </p>
